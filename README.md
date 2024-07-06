@@ -26,8 +26,9 @@
     (<img align="center" alt="Shelly-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img align="center" alt="Shelly-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
     <img align="center" alt="Shelly-Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />)
- </div>         
-
+  <img align="right" alt="Shelly-Corolo" height="125" width="170" src="https://cdn.discordapp.com/attachments/1213507676785348661/1258934567755321364/chrollo-lucilfer-hunter-x-hunter.gif?ex=6689d9ae&is=6688882e&hm=cc41e3a21fdc817fcd65854c700a8c9d00a52b8f55d423a0beed6b4771444b93&">
+ </div>
+ 
 ##
 
 <div>
@@ -50,3 +51,5 @@
     <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+
