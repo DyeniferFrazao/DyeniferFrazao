@@ -1,6 +1,6 @@
 ## OMG Hiiii !!! Eu sou a Shelly ^^
-- 📔 Design UX/UI e Front-End
-- 📖 Ciência da Computação 4/8
+- 📔 Design UX/UI, Dados e Front-End
+- 📖 Ciência da Computação 5/8
 - 🦄 Amo gatos, ler, me divertir, aprender e tarantulas !!
 
 <a href="https://github.com/DyeniferFrazao">
