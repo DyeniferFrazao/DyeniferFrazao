@@ -1,59 +1,97 @@
-## OMG Hiiii !!! Eu sou a Shelly ^^
-- 📔 Design UX/UI, Dados e Front-End
-- 📖 Ciência da Computação 5/8
-- 🦄 Amo gatos, ler, me divertir, aprender e tarantulas !!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=43414&text=kuromi`s%20child&section=header&reversal=false&fontAlign=65&fontAlignY=40&animation=twinkling&fontColor=914170"/>
 
-<a href="https://github.com/DyeniferFrazao">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=DyeniferFrazao&theme=dracula&border_radius=20&include_all_commits=true" />
-</a>
-<a href="https://github.com/DyeniferFrazao">
-  <img height=200 width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyeniferFrazao&layout=compact&theme=dracula&border_radius=20" />
-</a>
+<br>
 
-<div style="display: inline_block"><br>
-  > <img align="center" alt="Shelly-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />  
-  <img align="center" alt="Shelly-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />  
-  <img align="center" alt="Shelly-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="Shelly-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/fK6kRUR.png" />
 </div>
 
-<div style="display: inline_block"><br>
-  > <img align="center" alt="Shelly-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />          
-  <img align="center" alt="Shelly-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img align="center" alt="Shelly-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Shelly-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />      
-  <img align="center" alt="Shelly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    (<img align="center" alt="Shelly-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-    <img align="center" alt="Shelly-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
-    <img align="center" alt="Shelly-Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />)
-  <img align="right" alt="Shelly-Corolo" height="125" width="170" src="https://cdn.discordapp.com/attachments/1213507676785348661/1258934567755321364/chrollo-lucilfer-hunter-x-hunter.gif?ex=6689d9ae&is=6688882e&hm=cc41e3a21fdc817fcd65854c700a8c9d00a52b8f55d423a0beed6b4771444b93&">
- </div>
- 
+<div align="center">
+  
+  <b>`データアナリスト`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Dyênifer Frazão</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;I'm+also+a+Designer;And+Data+Analyst;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/shelly_♡-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=DyeniferFrazao&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=DyeniferFrazao&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DyeniferFrazao&theme=radical"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
 ##
 
-<div>
-  <a href= "https://www.instagram.com/ishellyy_/" target= "_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href= "https://twitter.com/StudyllehS" target= "_blank">
-    <img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href= "https://steamcommunity.com/id/purplexzy/" target= "_blank">
-    <img src= "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
-  <a href= "https://open.spotify.com/user/3q7nir9bjpm4kssgkm7txlsme?si=eb01b9e8bfbf4bdf" target= "_blank">
-    <img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-  <a href= "https://www.figma.com/files/team/1374465705575695691/all-projects" target= "_blank">
-    <img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/dyenifer-frazao/" target= "_blank">
-    <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  <a href="mailto:thaimint04@gmail.com"><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
+  <a href="https://www.instagram.com/ishellyy_/?next=%2F"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a>
+  <a href="www.linkedin.com/in/dyenifer-frazao"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
+  
 </div>
+
+
+
+<br>
+
+</details>
+
 ##
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DyeniferFrazao/DyeniferFrazao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DyeniferFrazao/DyeniferFrazao/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DyeniferFrazao/DyeniferFrazao/output/github-contribution-grid-snake.svg">
-</picture>
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=DyeniferFrazao&style=flat-square&color=8f2c5b" /></p> 
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=43414&text=kuromi`s%20child&section=footer&reversal=false&fontAlign=30&fontAlignY=40&animation=twinkling&fontColor=914170"/>
