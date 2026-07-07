@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=43414&text=kuromi`s%20child&section=header&reversal=false&fontAlign=65&fontAlignY=40&animation=twinkling&fontColor=914170"/>
-
 <br>
 
 <div align="center">
@@ -93,5 +91,3 @@
 </div>
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=43414&text=kuromi`s%20child&section=footer&reversal=false&fontAlign=30&fontAlignY=40&animation=twinkling&fontColor=914170"/>
